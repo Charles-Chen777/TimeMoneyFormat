@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.TimeMoneyFormat.resources
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.exe
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.ShowWorkList.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.CountMoney.resources
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.exe.config
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.exe
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.pdb

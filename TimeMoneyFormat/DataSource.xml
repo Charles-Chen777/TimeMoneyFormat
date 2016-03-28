@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WorkTimeList>
+  <Record Type="Normal" FlowID="1458654005">
+    <starttime>2016/03/22 15:00:00</starttime>
+    <endtime>2016/03/22 18:00:00</endtime>
+    <recsecond>10800</recsecond>
+  </Record>
+  <Record Type="Normal" FlowID="1458654849">
+    <starttime>2016-03-22 19:00:00</starttime>
+    <endtime>2016-03-22 22:00:00</endtime>
+    <recsecond>10800</recsecond>
+  </Record>
+  <Record Type="Normal" FlowID="1458707424">
+    <starttime>2016-03-23 09:26:50</starttime>
+    <endtime>2016-03-23 12:30:24</endtime>
+    <recsecond>10856</recsecond>
+  </Record>
+  <Record Type="Normal" FlowID="1458728008">
+    <starttime>2016-03-23 14:46:25</starttime>
+    <endtime>2016-03-23 18:13:28</endtime>
+    <recsecond>12234</recsecond>
+  </Record>
+  <Record Type="Normal" FlowID="1458741858">
+    <starttime>2016-03-23 19:01:02</starttime>
+    <endtime>2016-03-23 22:04:18</endtime>
+    <recsecond>10830</recsecond>
+  </Record>
+</WorkTimeList>
