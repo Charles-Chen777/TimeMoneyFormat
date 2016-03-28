@@ -12,10 +12,16 @@ namespace TimeMoneyFormat
         {
 
         }
+        private string workType;
         private string startTime;
         private string endTime;
         private string recordSecond;
 
+        public string WorkType
+        {
+            get { return workType; }
+            set { workType = value; }
+        }
         public string StartTime
         {
             get { return startTime; }

@@ -12,3 +12,11 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\TimeMoneyFormat\Tim
 F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.exe.config
 F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.exe
 F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.pdb
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.exe
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\bin\Debug\TimeMoneyFormat.pdb
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.csprojResolveAssemblyReference.cache
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.CountMoney.resources
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.TimeMoneyFormat.resources
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.Properties.Resources.resources
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.ShowWorkList.resources
+F:\MyGitHub\TimeMoneyFormat\TimeMoneyFormat\obj\Debug\TimeMoneyFormat.csproj.GenerateResource.Cache

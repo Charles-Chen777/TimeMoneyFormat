@@ -30,9 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ShowWorkList));
             this.worklist = new System.Windows.Forms.DataGridView();
-            this.StartTime = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.EndTime = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.RecordSecond = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
@@ -40,6 +37,10 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
+            this.WorkType = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.StartTime = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.EndTime = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.RecordSecond = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.worklist)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -49,6 +50,7 @@
             this.worklist.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.worklist.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.worklist.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.WorkType,
             this.StartTime,
             this.EndTime,
             this.RecordSecond});
@@ -60,27 +62,6 @@
             this.worklist.Size = new System.Drawing.Size(643, 237);
             this.worklist.TabIndex = 0;
             this.worklist.DataBindingComplete += new System.Windows.Forms.DataGridViewBindingCompleteEventHandler(this.worklist_DataBindingComplete);
-            // 
-            // StartTime
-            // 
-            this.StartTime.DataPropertyName = "StartTime";
-            this.StartTime.HeaderText = "开始时间";
-            this.StartTime.Name = "StartTime";
-            this.StartTime.Width = 200;
-            // 
-            // EndTime
-            // 
-            this.EndTime.DataPropertyName = "EndTime";
-            this.EndTime.HeaderText = "结束时间";
-            this.EndTime.Name = "EndTime";
-            this.EndTime.Width = 200;
-            // 
-            // RecordSecond
-            // 
-            this.RecordSecond.DataPropertyName = "RecordSecond";
-            this.RecordSecond.HeaderText = "读秒统计";
-            this.RecordSecond.Name = "RecordSecond";
-            this.RecordSecond.Width = 200;
             // 
             // groupBox1
             // 
@@ -144,6 +125,33 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // WorkType
+            // 
+            this.WorkType.DataPropertyName = "WorkType";
+            this.WorkType.HeaderText = "工作类型";
+            this.WorkType.Name = "WorkType";
+            // 
+            // StartTime
+            // 
+            this.StartTime.DataPropertyName = "StartTime";
+            this.StartTime.HeaderText = "开始时间";
+            this.StartTime.Name = "StartTime";
+            this.StartTime.Width = 200;
+            // 
+            // EndTime
+            // 
+            this.EndTime.DataPropertyName = "EndTime";
+            this.EndTime.HeaderText = "结束时间";
+            this.EndTime.Name = "EndTime";
+            this.EndTime.Width = 200;
+            // 
+            // RecordSecond
+            // 
+            this.RecordSecond.DataPropertyName = "RecordSecond";
+            this.RecordSecond.HeaderText = "读秒统计";
+            this.RecordSecond.Name = "RecordSecond";
+            this.RecordSecond.Width = 200;
+            // 
             // ShowWorkList
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -174,14 +182,15 @@
 
         private System.Windows.Forms.DataGridView worklist;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn StartTime;
-        private System.Windows.Forms.DataGridViewTextBoxColumn EndTime;
-        private System.Windows.Forms.DataGridViewTextBoxColumn RecordSecond;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn WorkType;
+        private System.Windows.Forms.DataGridViewTextBoxColumn StartTime;
+        private System.Windows.Forms.DataGridViewTextBoxColumn EndTime;
+        private System.Windows.Forms.DataGridViewTextBoxColumn RecordSecond;
     }
 }

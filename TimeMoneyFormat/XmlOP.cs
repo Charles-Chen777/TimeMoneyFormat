@@ -25,6 +25,7 @@ namespace TimeMoneyFormat
                 WorkTimeList wt = new WorkTimeList();
                 XmlElement xe = (XmlElement)xn1;
                 XmlNodeList xn10 = xe.ChildNodes;
+                wt.WorkType=xe.GetAttribute("Type").ToString();
                 wt.StartTime = xn10.Item(0).InnerText;
                 wt.EndTime = xn10.Item(1).InnerText;
                 wt.RecordSecond = xn10.Item(2).InnerText;
